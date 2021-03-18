@@ -19,3 +19,7 @@ ____
 :black_square_button: Шифрование сообщений    
 :black_square_button: Административные команды (бан,кик)    
 Пока на этом всё...
+
+
+
+[![ВК](https://user-images.githubusercontent.com/62811449/111631587-25d84f80-8826-11eb-9b28-af8cd3ef1f9e.png)](https://vk.com/gr4shin)
